@@ -1,6 +1,6 @@
 # On Regret-optimal Cooperative Nonstochastic Multi-armed Bandits
 
-The code to produce all the numerical results in Section 5 in the paper: [On Regret-optimal Cooperative Nonstochastic Multi-armed Bandits](https://openreview.net/pdf?id=UAtoVT1FTmi).
+The code to produce all the numerical results in Section 5 in the paper: On Regret-optimal Cooperative Nonstochastic Multi-armed Bandits.
 
 ## Dependences
 
